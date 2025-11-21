@@ -1,0 +1,51 @@
+## ===== GLOBAL =====
+Server = https://mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = https://mirrors.kernel.org/archlinux/$repo/os/$arch
+Server = https://mirror.fcix.net/archlinux/$repo/os/$arch
+Server = https://mirror.osbeck.com/archlinux/$repo/os/$arch
+Server = https://mirror.leaseweb.com/archlinux/$repo/os/$arch
+
+## ===== ASIA =====
+Server = https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
+Server = https://mirror.poliwangi.ac.id/archlinux/$repo/os/$arch
+Server = https://mirror.sg.gs/archlinux/$repo/os/$arch
+Server = https://ftp.riken.jp/Linux/archlinux/$repo/os/$arch
+Server = https://ftp.tsukuba.wide.ad.jp/Linux/archlinux/$repo/os/$arch
+Server = https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/$repo/os/$arch
+Server = https://ftp.yz.yamagata-u.ac.jp/pub/linux/archlinux/$repo/os/$arch
+Server = https://mirror.xtom.com.hk/archlinux/$repo/os/$arch
+Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.sjtug.sjtu.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.neusoft.edu.cn/archlinux/$repo/os/$arch
+
+## ===== EUROPE =====
+Server = https://mirrors.dotsrc.org/archlinux/$repo/os/$arch
+Server = https://mirror.arctic.lol/archlinux/$repo/os/$arch
+Server = https://mirror.sysrq.in/archlinux/$repo/os/$arch
+Server = https://archlinux.mirrors.linux.ro/$repo/os/$arch
+Server = https://mirror.lty.me/archlinux/$repo/os/$arch
+Server = https://mirror.yandex.ru/archlinux/$repo/os/$arch
+Server = https://ftp.halifax.rwth-aachen.de/archlinux/$repo/os/$arch
+Server = https://ftp.fau.de/archlinux/$repo/os/$arch
+Server = https://mirror.theblazehen.com/archlinux/$repo/os/$arch
+Server = https://mirrors.ukfast.co.uk/sites/archlinux.org/$repo/os/$arch
+Server = https://mirror.one.com/archlinux/$repo/os/$arch
+
+## ===== NORTH AMERICA =====
+Server = https://arch.mirror.constant.com/$repo/os/$arch
+Server = https://arl.mirror.constant.com/archlinux/$repo/os/$arch
+Server = https://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
+Server = https://mirror.sfo12.us.leaseweb.net/archlinux/$repo/os/$arch
+Server = https://mirror.clarkson.edu/archlinux/$repo/os/$arch
+Server = https://mirror.wdc1.us.leaseweb.net/archlinux/$repo/os/$arch
+
+## ===== SOUTH AMERICA =====
+Server = https://archlinux.c3sl.ufpr.br/$repo/os/$arch
+Server = https://mirror.ufsc.br/archlinux/$repo/os/$arch
+Server = https://br.mirror.globo.com/archlinux/$repo/os/$arch
+
+## ===== OCEANIA =====
+Server = https://mirror.aarnet.edu.au/pub/archlinux/$repo/os/$arch
+Server = https://archlinux.mirror.digitalpacific.com.au/$repo/os/$arch
+Server = https://archlinux.mirror.uber.com.au/$repo/os/$arch
