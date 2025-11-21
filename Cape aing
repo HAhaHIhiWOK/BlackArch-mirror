@@ -1,0 +1,11 @@
+Server = https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
+Server = https://mirror.poliwangi.ac.id/archlinux/$repo/os/$arch
+Server = https://mirror.sg.gs/archlinux/$repo/os/$arch
+Server = https://ftp.riken.jp/Linux/archlinux/$repo/os/$arch
+Server = https://mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = https://mirror.osbeck.com/archlinux/$repo/os/$arch
+
+# BlackArch stable
+Server = https://ftp.halifax.rwth-aachen.de/blackarch/$repo/os/$arch
+Server = https://blackarch.unixpeople.org/$repo/os/$arch
+Server = https://blackarch.pull.li/$repo/os/$arch
