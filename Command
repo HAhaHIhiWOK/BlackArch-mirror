@@ -1,0 +1,10 @@
+sudo rm -f /var/lib/pacman/db.lck
+sudo rm -rf /var/lib/pacman/sync/*
+
+sudo pacman -Syy
+
+sudo pacman -S archlinux-keyring blackarch-keyring --noconfirm
+sudo pacman-key --init
+sudo pacman-key --populate archlinux blackarch
+
+sudo pacman -Syu
