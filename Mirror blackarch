@@ -1,0 +1,9 @@
+## ===== BLACKARCH =====
+Server = https://mirror.blackarch.org/blackarch/$repo/os/$arch
+Server = https://blackarch.mirror.sydney/$repo/os/$arch
+Server = https://blackarch.pull.li/$repo/os/$arch
+Server = https://ba.mirror.garr.it/mirrors/blackarch/$repo/os/$arch
+Server = https://mirrors.dotsrc.org/blackarch/$repo/os/$arch
+Server = https://mirror.funami.tech/blackarch/$repo/os/$arch
+Server = https://blackarch.ftp.sh/blackarch/$repo/os/$arch
+Server = https://ftp.halifax.rwth-aachen.de/blackarch/$repo/os/$arch
